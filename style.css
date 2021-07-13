@@ -19,7 +19,7 @@
     padding: 15px 20px;
 }
 
-.manu-bar ul li a:hover {
+.manu-bar ul li:hover {
     background-color: #130f40;
     transition: .5s;
 }
@@ -31,13 +31,5 @@
 
 .dropdown:hover .dropdownbtn {
     display: block;
-}
-
-.dropdown .dropdownbtn li:hover {
-    background-color: #dff9fb;
-    color: black;
-}
-
-.dropdown li {
-    border: 1px solid red;
+    background-color: #4834d4;
 }
